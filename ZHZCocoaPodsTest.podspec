@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
     # 代码库的版本 
     s.version = "1.0.0" 
     # 简介 
-    s.summary = "The easiest way to use pull-to-refresh with Swift2.0 program language." 
+    s.summary = "test" 
     # 主页  
     s.homepage = "https://github.com/ZhenHangZhang/ZHZCocoaPodsTest" 
     # 许可证书类型，要和仓库的LICENSE 的类型一致 
